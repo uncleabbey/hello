@@ -3,9 +3,14 @@ ul {
     display: flex;
     flex-wrap: wrap;
 }
+ul li {
 
-ul image {
     width: 200px;
     height: 200px;
+}
+
+ul image {
+    width: 100%;
+    height: 100%;
     margin: 1em;
 }
